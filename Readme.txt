@@ -1,1 +1,1 @@
-test text
+Repository for game development projects.
